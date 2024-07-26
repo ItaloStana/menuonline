@@ -1,0 +1,176 @@
+{
+  "burguers": [
+    {
+      "id":1,
+      "snack":"burguer",
+      "name":"Mega",
+      "description":"O nosso Mega burguer, com três carnes, queijo e bacon.",
+      "price":32.5,
+      "image":"https://www.minhareceita.com.br/app/uploads/2021/08/TRIPLO-BURGUER-BACON.jpg"
+    },
+    {
+      "id":2,
+      "snack":"burguer",
+      "name":"Double Bacon",
+      "description":"O nosso Double Bacon, para você que ama bacon.",
+      "price":28.5,
+      "image":"https://www.lepingue.com.br/admin/uploads/images/galeria/duplo-bacon_ca3908e0d94d46afac3781d82ce01f0a__800x600__0x0.jpg"
+    },
+    {
+      "id":3,
+      "snack":"burguer",
+      "name":"Frango Bacon",
+      "description":"O nosso burguer de frango, com aquele toque de bacon.",
+      "price":26.5,
+      "image":"https://s2-vogue.glbimg.com/F4TMDrT0LsVvTElZUDevP_zGvZc=/0x0:640x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2022/Q/K/4pDRJAQqAbvbTKCVKVsg/2017-07-27-smart-burguer-cocoricrok-creditos-wellington-nemeth.jpg"
+    },
+    {
+      "id":4,
+      "snack":"burguer",
+      "name":"Cheeseburguer",
+      "description":"O simples pão, carne e queijo, que não tem erro.",
+      "price":20.5,
+      "image":"https://conteudo.imguol.com.br/c/entretenimento/44/2023/05/03/cheeseburger-1683134270752_v2_4x3.jpg"
+    }
+  ],
+
+  "pizzas": [
+    {
+      "id":1,
+      "snack":"pizza",
+      "name":"Calabresa",
+      "description":"A nossa deliciosa pizza de calabresa",
+      "price":25.5,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEpDx7b8l2IcQ8BBERvK0X-cwWwMiGS-4u4Q&usqp=CAU"
+    },
+    {
+      "id":2,
+      "snack":"pizza",
+      "name":"Marguerita",
+      "description":"A nossa deliciosa pizza Marguerita.",
+      "price":23.5,
+      "image":"https://www.cache2net2.com//Repositorio/8139/Produtos/38cd966e-3.jpg?=1641048-1"
+    },
+    {
+      "id":3,
+      "snack":"pizza",
+      "name":"Portuguesa",
+      "description":"A nossa deliciosa pizza Portuguesa",
+      "price":26.5,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDK2Cg6lJ89WcrXbmmQ_kPijdM6UZAn_ZnSw&usqp=CAU"
+    },
+    {
+      "id":4,
+      "snack":"pizza",
+      "name":"Frango com catupiry",
+      "description":"A nossa deliciosa pizza de frango com catupiry",
+      "price":29.5,
+      "image":"https://bonissima.com.br/web/image/product.template/34332/image_1024?unique=917ec29"
+    }
+  ],
+
+  "acompanhamentos": [
+  {
+    "id":1,
+    "snack":"acompanhamento",
+    "name":"Batata Frita",
+    "description":"Nossa batata frita crocante e quentinha.",
+    "price":15,
+    "image":"https://www.tendaatacado.com.br/dicas/wp-content/uploads/2022/06/como-fazer-batata-frita-topo.jpg"
+  },
+  {
+    "id":2,
+    "snack":"acompanhamento",
+    "name":"Batata Frita Cheddar e Bacon",
+    "description":"Batata frita com bacon crocante e nosso delicioso cheddar.",
+    "price":18,
+    "image":"https://receitinhas.com.br/wp-content/uploads/2017/06/Batatosa-scaled.jpg"
+  },
+  {
+    "id":3,
+    "snack":"acompanhamento",
+    "name":"Nuggets de Frango",
+    "description":"Nosso delicioso nuggets de frango.",
+    "price":16.5,
+    "image":"https://comidinhasdochef.com/wp-content/uploads/2016/07/Nuggets-de-Frango-Caseiros.jpg"
+  },
+  {
+    "id":4,
+    "snack":"acompanhamento",
+    "name":"Onion Rings",
+    "description":"Nosso deliciosa onion rings.",
+    "price":16.5,
+    "image":"https://www.mylatinatable.com/wp-content/uploads/2016/01/foto-heroe-1024x693-2-500x375.jpg"
+  }
+],
+
+  "bebidas": [
+    {
+      "id":1,
+      "snack":"bebidas",
+      "name":"Coca-Cola 2L",
+      "description":"Uma Coca-cola de 2L extremamente gelada.",
+      "price":14.5,
+      "image":"https://http2.mlstatic.com/D_NQ_NP_821648-MLB42283513676_062020-O.webp"
+    },
+    {
+      "id":2,
+      "snack":"bebidas",
+      "name":"Guaraná Antarctica lata",
+      "description":"Aquele Guaraná antarctica, que todo mundo ama.",
+      "price":8.5,
+      "image":"https://a-static.mlcdn.com.br/900x900/refrigerante-lata-guarana-antarctica-original-do-brasil-12-unidades-350ml/magazineluiza/225470000/3a0deb47c28b789f8fc4d91120640d9e.jpg"
+    },
+    {
+      "id":3,
+      "snack":"bebidas",
+      "name":"Milk-shake",
+      "description":"Aquele milk-shake, que todo mundo ama.",
+      "price":15.5,
+      "image":"https://www.selecoes.com.br/media/_versions/legacy/5/d/3306b162b662b503884c5aff2ca2ed62c3226ce0_widelg.jpg"
+    },
+    {
+      "id":4,
+      "snack":"bebidas",
+      "name":"Suco de Laranja",
+      "description":"Aquele suco de laranja, diretamente da fruta.",
+      "price":13,
+      "image":"https://s2-oglobo.glbimg.com/YyUC_KRFzV2nRNd8OVaN2O6iBuo=/0x0:5257x3505/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/o/M/S3B6yZQYOrjtTTBNEMLQ/copo-de-suco-de-laranja-e-uma-pessoa-espremendo-uma-laranja-nele.jpg"
+    }
+  ],
+
+  "sobremesas": [
+    {
+      "id":1,
+      "snack":"sobremesa",
+      "name":"Sorvete Casquinha",
+      "description":"A nossa casquinha, disponível em 3 sabores.",
+      "price":9.5,
+      "image":"https://static.fescopan.com.br/public/fescopan/imagens/produtos/casquinha-para-sorvete-biscoito-doce-300unid-marvi-2140.jpeg"
+    },
+    {
+      "id":2,
+      "snack":"sobremesa",
+      "name":"Petit Gateau",
+      "description":"O nosso Petit Gateau de chocolate, com uma bola de sorvete de creme.",
+      "price":20.5,
+      "image":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYVFRgVFhYZGRgaGBgYGBgaHBgaGhoZGBgaGRgcGBocIS4lHB4rIRoYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHjQsJCs0NDQ2NDQ0NDY0NDQ0NDQ0NDQ0MTQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAMUBAAMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAEAAECAwUGBwj/xAA8EAABAwIEAwUGBAUEAwEAAAABAAIRAyEEEjFBBVFhInGBkbEGEzKh0fBCweHxBxQzUnIVI2KSgqLCF//EABkBAAMBAQEAAAAAAAAAAAAAAAABAgMEBf/EACoRAAICAgMAAQIEBwAAAAAAAAABAhEDIRIxQVEiYQQTFDJCcYGRobHw/9oADAMBAAIRAxEAPwDQOCcVbT4dzKLzpF/VcvJnt0NTwzWq5sDRUe9aNSFU/GsG6XYnOMe2FlycPWa7iTOqqdxZuzUqJeeC9NhqlmWIeL9FB3FnbBFC/URN8myTXWXPf6tU6eSkOKv6IoX6mJ0EpNCwP9Tcps4u7eEUxr8RA3HBVOYs1vFuYVzOIsOpA6XQ4lLPD5K8bhjqFlvYuhZUa8Wc0/8AkELiuGuNw0+F/RLornB9MwXUeSzcZgAdluVKLmWII7wQud47xttIZGw5/p3qothJxqzGxHEX4UzSeWu5A28Quh4J/E4iGYlkj+9t/Nv0XBV5cS5xkm6EcxbqMWjgy3J2fQXDeMYbEiaVUTyn1GyOfh3C+o5i6+cKT3NMtcWkbtJB8wun4R7d4yhALhUbyfr/ANgk4Pw52j2IvT5oXIcN/idh3wK7Cw84keYXTYPieFxAmlWb3SCpaa7EFZ1MVAonCnYh3cVTlcPwpCCi4JihnOhIP5IAn/LiZCmxh3UGvKmKiVIfJsdtOEixRNVN7zoikFs5Z/EDsh34p53QXv03v0cTaWWUu2Elx5piqPfpe+Toiy+UpQrqyj79FBYZKkEG2urW1UUOwgJwqWPU5SAmlKjmUHPQBNz1D3qg96qKaQrCQ9W067m/C4juJHogcykHocQs2WcYrD8ZP+UO9VXiKtCr/WwtF5/uDcjvMLMFRM6slxGmLE+zfD6nwmtQd0PvGeRusvE/w+qG+Gr0q3/Gcj/I2Wj7xTD0uTXpXJnD8R4DicP/AFaL2DmWkt/7CQswtC9Zw3GKzLB5Lf7XdoR3OVWKoYPEf1sMGPP46XYM8y3Qq1k+R2eUFqdsgyCQeYsfMLvMX7Ah8uwtdr/+FTsP8NisjDew+Oe5zRQLcpgl7mNbPQk9rwlX+ZGrsTimBYD2oxdGMlZxA2d2h87/ADXS4H+J9dsCrTa8c2mD5FVf/l+Oy5oozfs5zmP/AKx5lchj8BUovdTq03Me3VrhB6HqOosUKUX0Q4o9Twv8ScI/+oxzD1bI82ytnCe0mBqfBXYDyJg+RXhRalkT4oXA+iKYY+7HtPiFd/KnYgr52o1ns+B7m/4uI9CtPD+0+MZ8OIf4w71CXBC4yPcnYZ/JRdSdyK8ko/xBx7fxsd/k36EI2j/EzFD4mU3f9h+aX5YuMvguKbMg31yq/flTyRXFmgHKQKzm1SrG1SZAIkdesawk5pFRxSk6QU+o0akTy38lBtafwkd8Dz5KtgLbwe+3j396fMB98+RWMsrfR1xwRX7tltN5OojlcGRzUwT016/coOniQXOAN2zI/OPBWOqT8hvdTyl8l/l4/gOZV/dIY5k5ZJdbsgEm97gaDqgg+5vEb99lh8V4iaVYOYdmzazoMiefyVQcpOiJwxxVs644gkWbPeRvppKoOIMgEtBJgASeoncITheP9+2R8Q1aLCY5bCEfUZaxDTOszeImCASLbFL6vRqEK0iDHE7ib7O15KPvHB2XKHSLFp35HNokKfeZgCxifCDpOvOyi5t7xG/dzt0RykvQ4QfhcXxrb8u/lunBB0IKHptIFjqPwkxpzBlO/KQM0zuZ6aGNPBUskl2S8EX1ouKpe5PcAAGRvOsbQZCdzf1VLImYywyjvtEQ9TFRVlibKqZmEMciKLC8hrQSToAJKDpAkgC5JAA6nRdrwbhBotL3kZzaxmG2t3z+SxyTUFZcVZVwzgIbDql3bMBsO8jX0710+TsgiLHZZzKwN+vlKIZigG5Z3MlefLLe2zXh8B78UGjf6rnfaP2ZpcQLDULmPYCGuYWzkN8rswIIm45SeaPfUL/hBMckTw62u/OyIZp8009ClBKP3POsd/Coj+niL8ns/wDppt5Lj+NeymKw0mpSJYPxs7bPEi7f/IBfRD2qpzF3xzzi97Mkz5hhMV7vx/2GwuJBOQU33h9MBpk7uaLO8b9V5j7RexGJwoc+PeUW3943Vreb2at77jquqGaMtdMq0cpCQClCYBbBR1eVMaavLE8LiJAa5OUhpAdtPzU+G4MtElxJJkmCBbSFTReQcwIAkk2mx9NVoNcRI1vIA0aIFh9FDk+jthjSVok6obxzn9vv9BS8kkQbEAnS+o11205qx4k8gVCpVyNyi0Wn9SlFDkytrw0iQJM3tPTbQkDf0TmqbkX07u775oR1WddItOvkha2KDRc/qtljswllo1v5rN0tvaenVc9xxkVTecwDu6dQfEHwhFuLmND32a4SwWzEaXGwWZxHFmq7MREAADoJP5q8calroyzTuO+yfDMe6i/M2JiLiRt9F0eD46x3ZLcriQObSN5NiD5rj5R/Ca7WVWOe3M1r2uImJAcCQDsYm60yQT2TiytUjr6lbNZ7Wn/JoPK0HnCTH5SAXMYNQJa0TpA/CD8lU+s0w4EdqeyHNcRB0cAbRIvv1QuLdDgSQTfsmLW1g6C3yXIrujsfVs13V2mQ2TDoubz0gxrm05byEO+o/PoAzmSc3osNtSXTceIvzJtIPctjD1SQLbddDtB0lDVCTT6DmugEacr2j7ASa+I0Gk+JsD3ygXY1ocGyBOknUzpCJcJIMNmZE3jW46wVLRSZ0vB+CfzbHOovbnb8THWN9COYQmP4NWomHsc3rFj3HRD8H4i/D1RVZq3VpByuaRGUga6zqu94b7dMqditTyzaR2gemUha45Jqm9nLnxuDuPTOBwTCKjOedvqu4DXuZpHfbxCMrUaDn56dJrY/EBBM7xoFW99+Te4rg/FTTdIrGmZ7WESDb7+aM4dSYfjGaeam6nmEECPEFUU2wTHh3rlikn9X9DWTtaOgoUg2zQANbBWVHbQqMC+RfUK98xK7eoWv+Ry/xbIqAdLoUxyTUoBPiou2lY/GTLVVUpAgiAQRBBuCDqCDqrWhOtl0QePe3nsOMO1+Jw8e6kZ6d5ZNszTuyYttPLTz4hfSHHsIa2Gr0m6vpPaO8tMfNfP5o9F3YZtx2aw+pHSNE218ENjXQw8zbzRTCYss7iz7ZZ2M+VliEVszaVQTfTrcdDfkUfRxkQZtmgg6mR4X+ixA6OvL00V9F8EHNEWP/KNAD4ocPTqjLw3y0GCLjaeSGrssQeveSPDf6JqVbSCRJ0NxNyLxZBYzGOzQ20WN7CNbbzKzim3SLlxS2VY2i9sEAuFrgaeAWRcuHf3+a2n4owCLbHqeiz8W8SHRtrziIldcG62jinBJ6Y3EKstDZPZMDTSN+uizQp1ahcZUFpFUqOecuTsZOlCYqiA/AYnKYLi0OgOcJJDfxWkSI2m6vxeN5ESdhYDwWY07LoeG4djmwWAwNSBcc5WU+Mds3hymuKYNgBuTeJ8eq1qdaYiSe4mTy+W6tZgGC+Qeg9VdTYRoAOgsFzSmmzrhBpUUMwpz+8dd0Q0bAb67/UotkgTa3UX8TbdRY4RMz3GbpnEiXAAwRN+4G3OFEpG0Y+hLXmZOm0SDyH7rW4AwF4cbxYTzFpXOOxFhlFgY15Wv5on2f4gfelpNpsPmfVZu6bQsqTSR6bhnotsERzWZh3o+m5crRgReSLFTwFOXEm8aJq5m6s4UO2eSUf3JMUv2to06dPJJ6KZYSBfvU2GZCZjCJutnF6S6/wBHOpe+kHCIlODN0q0RdRpuSWpNeD7VloSIUQOvipAraL+SWUuBBtvb9V4RxnAPoPe0w4ZnBrxo6CdOR6L3t4XmntDhWNq1KLwSxxDhoIzCbdxJv0W+GXFlQlxZztR4aJXPY55Mn+4/O/6LXx9SIE7fMmBfzXP4pxzEHmI8k47Z0JVEHDiRKQB8fz5pAQD3+qTZjpdaiQUzEFsZTJIEg6CJElFsptAh3xOEl1yeZPfOyzqYuDE2iNyN/vojffuyNtME9YOoUSXwaXptgVTEAOcJG8Wt4g9PFA1q2b7CjVfJJ5knzVa6IxSOGcm9ESkpAJKzOiKSSSBElr8FrODgBfW0kTAn19Vjo7AHeYv6XWeRXE2wP60dUMewxcg5R2byCdtPVQaS6SAXQSILrRbKNYPPndCfzLiSQAARYAEWsb+Cjh2O2JDZnuPLqFycD0edBFZ+obANg6CQ69/OJ8lJzxAGZxAiJ1t177odxm5mfW2phTn78N0nGhcrI16pj705IXg2JIrC9gfWx/JPjH9k/JA8LP8AuxzPoVcY3BmWSW0j2bAVJa09FotqWXO8JrSwdFpmrAXHKNGfoa+rtutjhVLKJKy+FUC7tnnbvXRM00UYo3Ll/YWR0uJI9UzHKtrjJt9IVjbSrTb2zKvCDjf807GCSJT5L62i6poS5xdO8AcgNFCdSSa7f+CvLCGhSASbfwU3QuqMdGbZW4Liv4gYcRTqAXlzCYvEZgCena8yu1K5L28rf7bGRq+Z5ZW/qnF7BHlHEfiOmg+f7LHxVEgF28yOcaeeq0sc7NUI3sJOw5zsqaoidLWjX9CNVrF8WdaXKNGbTJI/bb7CcGeiT6UHM3S/6+Cam7n5c1r90Sn4y8tNhcDc6d47lYyrDXAugHn37ddEsS7sxudu/YIB8XHTwkDRKKsJy4kHuBmRJJkOnzkb/eqGVj2x16jROxhP2Atzkex6LJmSBYkToSBMaanQdYTgBV5VYGpNlRiNUpEEgggi0dVSQr4IVbkJhKKILSwTBl/5G88gLRG53QNBpLgBrMLXosLZvPXnGyjK6VGn4eNuwlpkdqSeek63Sc8kRtb5c1APBsQfNMAeXrosEdDCAQOpUifnB6WVTeo+qtawn8lMi4geLEx6oThbv95vWQjcVcx93WaHBrw4iYMwtYbi0ZZvGen8JqQAOgWrUdoua4Rig5gIN7EffVblJ5eRG+niuHL0KPZ0vBa1wOgXSMPS0Ll8DQLCwrpC85ddksTpP7GWRWx6ZknvUnFA4ar2reKNDrzzRB8o6JapldQEabpsNppdTrGCoAqFGp/yHdxLW2kxfdSL1W1yZz4XQtIlk3OXDe3FQPexgN2tJI2GY28bei7B9cCbwBqdh3rzbieNFau97fhJhp5hoyg+MKo/ILs4ni9MsqZosfuChMQ/MC5o5W77eq6riWDztO65oNLDES2Zc20zpYwtkbRdEKDYER+n3yUalOZ5gDu6pxUbfLe34hvvN+9Ros2Lu1t1vf1CX3NlXRBrLCRLpg38eWiCxVO+pJgkzy+uq0MbUytgENJNxvEfmhMzXNEB2dodmMy0i5m9wbx4LbHdWYZqb4grANxNjaYvFikxW4SkXuaxoLnOcGtaLy5xAaI6kwu24j7EswrGuxH8xnILnClTD2UxNg55N5h17RAsqboiK2cXSoOdmygnKMziLw3Sfmt72dwPvHtFPI9+7HtzbG+V3Zd+yCdFNzTSeYF21QHMeZiczQ4gQQ4W11O0V0sHWINVgJiS5zSJAkAkgGQJcO+e9Q3ZdD8S4O+iXB+UFrssZml3MGATsgS1pG4dvoQbm/S0c9OsDT4VjmMD2VGNcyo0tc4sD6jDqHU5c2HSBc9Vlkb/ALppsfEGNjKMwVUkxud9z566Id06/fgrMUzK6CTmF3Elru0STLXNJkRBmdZVNWjJNxlo0i772V4Fu8SkzAPytd2TmExJ0iYuLH6JPololwgDXtAkaRIHesEjpbZPN0J+/wBFPNqIObZupPL87pqGGe67jlGnWZ0g2Hd0R9FgbMC/zta3SwslKkONsynUMsk3dv06Kujwtz2Z41dbu3Pn6LUxDGtdmdJG4BEk9Pr+yExPE6hd2IYwQGsAEADaTcojZGaXiNDhDTTIadDoeXQruOAUS5xPISuN4c9tYRvuu19mqrKLX53bWnUwLAdVjkjsyUnRu06gLwCtl3w+C5bC1C5oefikz15ro2VWhgdOto6rFdNMJdoFwzoLtj6o9jpEcljPcQ+VoUHlZ4uqKl3YZiDIHQXQ5qR16IjLN1JtO0rSSlytGaaoH995rH4z7R0qGZrnS9sdhupJEi+gGl+qO4m+Aei8q408ue7v3Wyjq2JbY3GfaGviJa90MmcjbN6SdXeKGwFQzqhct0ThW3Vroo21l4/BtdeLrVhVVWrRDOVxGAJ0N/vVAuY5pAcABPxaDx5BdPiKO6DfSB1AKqkNSaOaxBLjIsJiTvaBA5fVDPbcldFiOHB2h06T+yzsXwt7RI7Q3gXA7t1pF6FKm7Go44MawsYGVWVTUFVpMgBrAxoBsIc1zp5u6LVw/tpiw9z3ubWzkF7arWua7L8OkObGxaQsCkzM6BYaSbQOZOgUsVSykQHRAkkRc6W7o56p0mGkg/i3GHV6r6pPaeCDZsBtsrWiLBoAAJJPZB1QVLFuaMoUmsZm7YcxsCwuZgDU8zfTmhWkeKVIu/CTneCRKLp4AubmNSm2bgOcQTppYjfnsiTwpjHtY+uwzH9IOqGDyJysP/ZAXRkPG6gwAuEnUifO61X4drnOFMOyZuw52Uvta+UxuTadBfdE0+HROYZpMkCAPADRF0jN1JhrKb8rWtOkHNzaOc8xAVz8PmbBImDbXQCJ8/mq6WJyAgNudZvvy8lVJ/QWHkslGRs8sfCNIjM4GQD8RG8iLHYgeSJZWMQBA0B1MDSeqqaw7BTaxXxXpm8sn0VOoyZBueacYWdURTpklHsw5ISdEjez2CILnczA8F1lNlrhB8E4f2J5kyt+lQhYzSZPLYNhyWkEabj6LUGOZmywcsW/y1+irawck/ueS5pRZSaCzhS+CIuJRmGou0cNE+GcAAbToUWagiURhXQpSsRB7lW+oGiJuqKuIQNetFytYpshsD4rWhpXnWOEvPeug43xlpJa0zzOy5d9VzirlSVDin2Ve6J2WrgMNaU+Fw5IutKlTDVJZRKiQmzJ5WwFFWmgKtFaxCi6mChOgMNzUThmdEY7CgqbKACrkKiOHwVMkk9mQJytzTzm46q9vCabjGdrers47rQQpNZCdwU2xmY7grQYsBOwA9CoVOAM0JB8AfmCtWEk+TFRiu9nKZiT6/VXt4HSBkie8z89VppbJcmMD/lGMHZAHXU+az6rACtao2Qs+tSi6aYFIYEoTKQYVZIwUg2dlYyiSi6OHSbKIUKS0aNEnQKLaSIY87rNsAvh1Z1N4+HI4w4G4g72uOcrZ9+zZwPUFc+14HXwVGIc6ZBhGiZKzqRWCvY9chS4g8a377LSpcYAF/JDimRtHSsqK33nVct/r52YPEpP4286ADzKngvkNnQ4nEBoJJgBcXxziz6hLGktaNRue/6IipWc+7nE9NvJAVcMASTeUSdKkVGNvZlNoEo3C4IC5RDWgKbHLKzWi1oA0Uwma1TAVEmaHKUobMQptqLYC+U4KrDlLMgCQUgFDMptKkBJ4TpKgIwkQpJIAjCaFNJAEC1QdSlWlMgAc4YKTcOEQklYFbaasa2E4ThMCbOSkWwqwVe+4B6KQGptuokJ2GExcgCD6ciyHfTKOY8KD3IbFQEKZRNKnzTOKTXqXIKCWMhRrU5GitZcKwNUdjMdz9lFr1qHCt5IOthMsk2UMtNFtB82RAahsAzUogmbDTc/RaRTZEjHqUy3UQoQpcM481wg5Xt/td9VqNoYer8LjTdyddvmtugMmSE4ej8Tweqy4bnHNl/lqs9wjUIAmHKwOKHAV2HDvwjMReIkRvbyQBa16kHhDPfJPZjuTFyACwU8oQVFL3h5oAKSQ4rJxWQBc5Mq/eJe8QMshOAqcyXvEAXlKUOXpveIEE5lcypAWea0KPv53SYB3vLqTzaQs/3qk2qYhJhQQCrnaAoAOU2ys2x0Fhs6q1mHlD0WFadEW6pUDdDMokKeUoliqq1Ak0yUxohAV+2eTee57uiufULu5QqPaxpe9waBqTZXHG5dhyodjNogclj8d9oWYcFjIfUjT8LOrj+SxuN+1jnyyh2W6F5sT/iNu9csb85mZvcm+p+911xx0Kr7KKTyDYwtjh/GqkgG6SSclocTreF8VqAAtcR0mR5Ldw/ERVhtSm1xP4tCkkudlMuxXAGQS0lvTULFyFk5XEEWkWSSQhIofVJmbnmmqukmySSYEITkJJIAeLqMwUkkeARDlNhSSQNEpTEpJIAYuSlJJJjIlQy31TpJAx8l4lXtpBJJJiJsPRS94UklIBWGJ5rQa6BonSQyfSt1dx3UWiUklpBCYBx3ixoU5a0EnmfuV57xHiFSsQ6o8nkNAO4JJLpgOPQJPpPzhRN4P3qkktGUf//Z"
+    },
+    {
+      "id":3,
+      "snack":"sobremesa",
+      "name":"Banana Split",
+      "description":"A nossa deliciosa banana split",
+      "price":26.5,
+      "image":"https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2023/10/12/575720307-banana-split.jpg"
+    },
+    {
+      "id":4,
+      "snack":"sobremesa",
+      "name":"Pudim",
+      "description":"O nosso delicioso pudim de leite",
+      "price":16.5,
+      "image":"https://www.receitasnestle.com.br/sites/default/files/srh_recipes/9954f57d1ba0fc9a818b8bbf267e31ce.jpg"
+    }
+  ]
+}
